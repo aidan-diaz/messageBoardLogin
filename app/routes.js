@@ -18,6 +18,7 @@ module.exports = function(app, passport, db) {
         })
     });
 
+
     // LOGOUT ==============================
     app.get('/logout', function(req, res) {
         req.logout(() => {
