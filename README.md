@@ -2,7 +2,7 @@
 
 ![Thumbnail](public/img/thumbnail.png)
 
-Link to project: ()
+Link to project: (https://techtalk-w57j.onrender.com/)
 
 
 ## How It's Made:
