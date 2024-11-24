@@ -1,7 +1,14 @@
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background-color: #350037;
+  color: white;
 }
 img{
   height: 200px;
+}
+
+.loginBox,
+.well {
+  background-color: #6D256F;
 }
